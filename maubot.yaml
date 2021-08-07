@@ -1,0 +1,9 @@
+maubot: 0.1.0
+id: de.herrmehren.mock
+version: 0.0.1
+license: MIT
+modules:
+  - mock
+main_class: MockBot
+config: false
+extra_files: []
