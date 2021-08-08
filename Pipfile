@@ -4,9 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-maubot = "*"
-mautrix = "*"
-more-itertools = "*"
+maubot = "0.1.2"
+mautrix = "0.9.10"
+more-itertools = "8.8.0"
 
 [dev-packages]
 
